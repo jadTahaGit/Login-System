@@ -1,0 +1,17 @@
+{
+    "name": "jadta/start",
+    "require": {
+        "squizlabs/php_codesniffer": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jadta\\Start\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jadTahaGit",
+            "email": "jadtaha.de@gmail.com"
+        }
+    ]
+}
